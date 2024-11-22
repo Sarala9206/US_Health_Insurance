@@ -13,8 +13,6 @@ Fraud and Risk Management: Insurers face issues such as fraud detection, overcla
 Personalization: There is a lack of tailored insurance products that cater to the specific health needs of individuals or demographic groups.
 Technological Barriers: Many insurance companies lag in leveraging modern technologies like AI, blockchain, and big data for efficient claims processing, predictive analytics, and customer engagement.
 
-# US-Visa-Approval-Prediction
-
 ## Live matarials docs
 
 [link](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset?resource=download)

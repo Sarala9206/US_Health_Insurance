@@ -1,0 +1,13 @@
+cloumns:
+  columns:
+ -age: int
+ -sex: object
+ -bmi: float
+ -children:int
+ -smoker:object 
+ -region:object 
+ -charges:float
+
+
+num_features:
+  -charges: float 

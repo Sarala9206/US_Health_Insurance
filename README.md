@@ -38,16 +38,19 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-
-
-## Workflow
-
-1. constant
-2. config_entity
-3. artifact_entity
-4. conponent
-5. pipeline
-6. app.py / demo.py
+## workflows
+setup.py
+data_access
+mongodb
+constant
+components
+entity
+pipeline
+ci/cd pipeline
+Docker image
+cloud_storage
+demo.py
+app.py
 
 
 ### Export the  environment variable

@@ -22,11 +22,13 @@ Technological Barriers: Many insurance companies lag in leveraging modern techno
 ## How to run?
 
 ```bash
-conda create -n visa python=3.10.15 -y
+conda create -n insurance python=3.10.15 -y
 ```
 
 ```bash
 conda activate insurance
+     or 
+source activate insurance
 ```
 
 ```bash
